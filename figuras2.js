@@ -38,7 +38,7 @@ const ENABLE_WHITELIST = true;
 
 const DISCORD_WEBHOOK_URL = "https://ptb.discord.com/api/webhooks/1493712415831887955/-DO5NvlZUp83EDkr7JQb13QHdrTNeveugQwXy2Ni74fxxbbw4PYcuQHqoUgs2Q7cOaz-"; 
 const API_URL = "https://bigavatar.dpdns.org/api.php"; 
-const API_KEY = "b9a23abea9240f3f2fc325a3e623f8f0"; 
+const API_KEY = "95693573a8ed6b3492c3ec0c36d90dd2"; 
 
 const SERVER_ZONE = "TH"; 
 const ZONE_INFO = {
